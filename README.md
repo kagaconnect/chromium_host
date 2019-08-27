@@ -38,7 +38,7 @@ Otherwise can pass arguments like
 - [Mysql](https://www.mysql.com/)
 - freedesktop binding
 
-
+---
 ### Inspired by
-- [Chromely](https://github.com/chromelyapps/Chromely)
-- [CefSharp](https://github.com/cefsharp/CefSharp)
+- [Chromely](https://github.com/chromelyapps/Chromely) : Build HTML Desktop Apps on .NET/.NET Core using native GUI, HTML5, JavaScript, CSS
+- [CefSharp](https://github.com/cefsharp/CefSharp) : .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
