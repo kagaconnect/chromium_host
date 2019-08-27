@@ -37,3 +37,8 @@ Otherwise can pass arguments like
 - [WinApi](https://github.com/prasannavl/WinApi)
 - [Mysql](https://www.mysql.com/)
 - freedesktop binding
+
+
+### Inspired by
+- [Chromely](https://github.com/chromelyapps/Chromely)
+- [CefSharp](https://github.com/cefsharp/CefSharp)
