@@ -9,7 +9,7 @@ A .NET/Mono Chromium Embedded Framework host
 - Window : exposes chromium embedded framework browser functions.
 - Console : extends some logging functionality
 - Server : a simple http server
-- Stream : eposes a network stream client or serial stream client
+- Stream : exposes a network stream client or serial stream client
 
 ### Dependents
 - [CefGlue](https://gitlab.com/xiliumhq/chromiumembedded/cefglue)
