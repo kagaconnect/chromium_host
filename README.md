@@ -38,7 +38,6 @@ Otherwise can pass arguments like
 - [Mysql](https://www.mysql.com/) : MySQL is a freely available open source Relational Database Management System (RDBMS) that uses Structured Query Language (SQL)
 - freedesktop binding : wayland binding
 
----
-### Inspired by
+# Inspired by
 - [Chromely](https://github.com/chromelyapps/Chromely) : Build HTML Desktop Apps on .NET/.NET Core using native GUI, HTML5, JavaScript, CSS
 - [CefSharp](https://github.com/cefsharp/CefSharp) : .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
