@@ -11,6 +11,19 @@ A .NET/Mono Chromium Embedded Framework host
 - Server : a simple http server
 - Stream : exposes a network stream client or serial stream client
 
+### Start Up : windows
+Double clicking the **ChromiumHost.exe** will read the arguments from **Configuration.xml** otherwise can pass arguments like
+`ChromiumHost.exe --url=http://google.com --internal=false --remotedebuggingport=20480 --verbose=false`
+
+### Start Up : linux
+This will read the arguments from **Configuration.xml**
+
+`mono ChromiumHost.exe`
+
+Otherwise can pass arguments like
+
+`mono ChromiumHost.exe --url=http://google.com --internal=false --remotedebuggingport=20480 --verbose=false`
+
 ### Dependents
 - [CefGlue](https://gitlab.com/xiliumhq/chromiumembedded/cefglue)
 - [ICSharpCode.SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
