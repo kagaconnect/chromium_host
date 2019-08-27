@@ -3,6 +3,8 @@ A .NET/Mono Chromium Embedded Framework host
 
 ![](https://github.com/kagaconnect/chromium_host/blob/master/assets/svgs/release.svg) ![](https://github.com/kagaconnect/chromium_host/blob/master/assets/svgs/linux.svg) ![](https://github.com/kagaconnect/chromium_host/blob/master/assets/svgs/windows.svg)
 
+For more info/documentation, please check [Chromium Host wiki](https://github.com/kagaconnect/chromium_host/wiki).
+
 ### Features
 - Database Clients : Can call MS SQL Server, MySQL Server and SqLite databases.
 - .Net Framework : eposes functions from the mscorlib, System and System.Core libraries
