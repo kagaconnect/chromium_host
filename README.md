@@ -28,15 +28,15 @@ Otherwise can pass arguments like
 `mono ChromiumHost.exe --url=http://google.com --internal=false --remotedebuggingport=20480 --verbose=false`
 
 ### Dependents
-- [CefGlue](https://gitlab.com/xiliumhq/chromiumembedded/cefglue)
-- [ICSharpCode.SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
-- [NetCoreEx](https://github.com/prasannavl/NetCoreEx)
-- [SerialPortStream](https://github.com/jcurl/SerialPortStream)
-- [Mono framework on linux](https://www.mono-project.com/)
-- [.Net framework on windows](https://www.microsoft.com/en-us/download/details.aspx?id=49981)
-- [WinApi](https://github.com/prasannavl/WinApi)
-- [Mysql](https://www.mysql.com/)
-- freedesktop binding
+- [CefGlue](https://gitlab.com/xiliumhq/chromiumembedded/cefglue) : .NET/Mono binding for The Chromium Embedded Framework (CEF)
+- [ICSharpCode.SharpZipLib](https://github.com/icsharpcode/SharpZipLib) : #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+- [NetCoreEx](https://github.com/prasannavl/NetCoreEx) : Extended collection of packages that provide common structures, extensions, and helpers that can be used across many libraries, and applications.
+- [SerialPortStream](https://github.com/jcurl/SerialPortStream) : SerialPortStream is an independent implementation of System.IO.Ports.SerialPort and SerialStream for better reliability and maintainability. Default branch is 2.x and now has support for Mono with help of a C library.
+- [Mono framework on linux](https://www.mono-project.com/) : Mono is a software platform designed to allow developers to easily create cross platform applications part of the .NET Foundation.
+- [.Net framework on windows](https://www.microsoft.com/en-us/download/details.aspx?id=49981) : The Microsoft .NET Framework 4.6.1 is a highly compatible, in-place update to the Microsoft .NET Framework 4, Microsoft .NET Framework 4.5, Microsoft .NET Framework 4.5.1, Microsoft .NET Framework 4.5.2 and Microsoft .NET Framework 4.6. The web installer is a small package that automatically determines and downloads only the components applicable for a particular platform.
+- [WinApi](https://github.com/prasannavl/WinApi) : A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop
+- [Mysql](https://www.mysql.com/) : MySQL is a freely available open source Relational Database Management System (RDBMS) that uses Structured Query Language (SQL)
+- freedesktop binding : wayland binding
 
 ---
 ### Inspired by
