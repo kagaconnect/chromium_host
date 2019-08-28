@@ -5,7 +5,7 @@ A .NET/Mono Chromium Embedded Framework host
 
 For more info/documentation, please check [Chromium Host wiki](https://github.com/kagaconnect/chromium_host/wiki).
 
-### Features/Libraries
+### Features
 - Database Clients : Can call MS SQL Server, MySQL Server and SqLite databases.
 - .Net Framework : eposes functions from the mscorlib, System and System.Core libraries
 - Window : exposes chromium embedded framework browser functions.
@@ -27,7 +27,7 @@ Otherwise can pass arguments like
 
 `mono ChromiumHost.exe --url=http://google.com --internal=false --remotedebuggingport=20480 --verbose=false`
 
-### Dependents
+### Dependents/Libraries
 - [CefGlue](https://gitlab.com/xiliumhq/chromiumembedded/cefglue) : .NET/Mono binding for The Chromium Embedded Framework (CEF)
 - [ICSharpCode.SharpZipLib](https://github.com/icsharpcode/SharpZipLib) : #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 - [NetCoreEx](https://github.com/prasannavl/NetCoreEx) : Extended collection of packages that provide common structures, extensions, and helpers that can be used across many libraries, and applications.
