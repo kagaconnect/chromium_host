@@ -40,6 +40,8 @@ Otherwise can pass arguments like
 - [WinApi](https://github.com/prasannavl/WinApi) : A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop
 - [Mysql](https://www.mysql.com/) : MySQL is a freely available open source Relational Database Management System (RDBMS) that uses Structured Query Language (SQL)
 - freedesktop binding : wayland binding
+- [FxSsh](https://github.com/Aimeast/FxSsh) : FxSsh is a lightweight SSH server side application as SSH reinforcement of GitCandy.
+- Renci.SshNet
 
 # Inspired by
 - [Chromely](https://github.com/chromelyapps/Chromely) : Build HTML Desktop Apps on .NET/.NET Core using native GUI, HTML5, JavaScript, CSS
