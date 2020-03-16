@@ -14,9 +14,9 @@
     <path id="Path_3" data-name="Path 3" d="M0,0H133.85V20H0Z" fill="url(#linear-gradient)"/>
   </g>
   <g id="Test" transform="translate(8.5 1)">
-    <text id="release-2" data-name="release" transform="translate(16 13)" fill="rgba(1,1,1,0.3)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="-17.005" y="0">release</tspan></text>
-    <text id="release-3" data-name="release" transform="translate(16 12)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="-17.005" y="0">release</tspan></text>
-    <text id="v75.0.3770.100" transform="translate(83.85 13)" fill="rgba(1,1,1,0.3)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="-35.86" y="0">v75.0.3770.100</tspan></text>
-    <text id="v75.0.3770.100-2" data-name="v75.0.3770.100" transform="translate(83.85 12)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="-35.86" y="0">v75.0.3770.100</tspan></text>
+    <text id="release-2" data-name="release" transform="translate(-1.005 13)" fill="rgba(1,1,1,0.3)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">release</tspan></text>
+    <text id="release-3" data-name="release" transform="translate(-1.005 12)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">release</tspan></text>
+    <text id="v78.0.3904.108" transform="translate(47.99 13)" fill="rgba(1,1,1,0.3)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">v78.0.3904.108</tspan></text>
+    <text id="v78.0.3904.108-2" data-name="v78.0.3904.108" transform="translate(47.99 12)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">v78.0.3904.108</tspan></text>
   </g>
 </svg>
