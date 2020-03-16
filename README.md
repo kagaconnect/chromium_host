@@ -27,6 +27,29 @@ Otherwise can pass arguments like
 
 `mono ChromiumHost.exe --url=http://google.com --internal=false --remotedebuggingport=20480 --verbose=false`
 
+### Setup structure
+    .
+	├── binaries
+    │   └── cef_binary_ ... .zip
+    ├── extensions
+    │   └── ...
+	├── locales
+    │   └── ...
+	├── swiftshader
+    │   └── ...
+    ├── web
+    │   └── ...
+    ├── ChromiumHost.exe
+	├── *.dll
+	├── *.bin
+	├── *.dat
+	├── *.lib
+	├── *.pak
+	:
+	├── logo.ico
+	:
+	└── Configurations.xml
+
 ### Demo
 ![](https://github.com/kagaconnect/chromium_host/blob/master/assets/images/screens.jpg)
 
