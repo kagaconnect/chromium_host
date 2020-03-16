@@ -30,7 +30,7 @@ Otherwise can pass arguments like
 ### Demo
 ![](https://github.com/kagaconnect/chromium_host/blob/master/assets/images/screens.jpg)
 
-### Dependents/Libraries
+### Dependents/Libraries 
 - [CefGlue](https://gitlab.com/xiliumhq/chromiumembedded/cefglue) : .NET/Mono binding for The Chromium Embedded Framework (CEF)
 - [ICSharpCode.SharpZipLib](https://github.com/icsharpcode/SharpZipLib) : #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 - [NetCoreEx](https://github.com/prasannavl/NetCoreEx) : Extended collection of packages that provide common structures, extensions, and helpers that can be used across many libraries, and applications.
